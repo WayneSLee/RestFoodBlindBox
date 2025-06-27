@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "990427757093",
+    "project_id": "restfoodblindbox",
+    "storage_bucket": "restfoodblindbox.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990427757093:android:52a355ea12ab97716b9dcc",
+        "android_client_info": {
+          "package_name": "com.LiBro.co.product_card"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990427757093-3slin5p8ef17ub41tiq5vlqi6dbej0f1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LiBro.co.product_card",
+            "certificate_hash": "8f7d3d25c34431c0572f3784466ee329e7ad531e"
+          }
+        },
+        {
+          "client_id": "990427757093-l6qftf6r082fffs7445f10clth3avkn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvF7S3kPbM-F55T1_4ZZso-IE6kbGDpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990427757093-l6qftf6r082fffs7445f10clth3avkn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990427757093-lat20aqt3r9bmmk0ec5g2kde9che0s5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LiBro.co.productCard"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990427757093:android:35b5f1cdc6b4207a6b9dcc",
+        "android_client_info": {
+          "package_name": "com.kuanxing.co.restfoodblindbox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990427757093-l6qftf6r082fffs7445f10clth3avkn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqvF7S3kPbM-F55T1_4ZZso-IE6kbGDpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990427757093-l6qftf6r082fffs7445f10clth3avkn4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "990427757093-lat20aqt3r9bmmk0ec5g2kde9che0s5p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.LiBro.co.productCard"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
